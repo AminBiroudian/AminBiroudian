@@ -2,18 +2,20 @@
 **Junior Data Science & AI Developer | Computer Engineering Student**  
 Passionate about transforming raw data into actionable insights using AI & Data Science.  
 
-🔬 Currently working on: **Real-time Data Processing, Predictive Analytics, Machine Learning**  
-📋 Learning: **PySpark, Apache Kafka, Advanced ML Models, Big Data Solutions**  
+🔬 Currently working on: **PowerBI, sickit-Learn, Machine Learning**  
+📋 Learning: **Deep Learning (TensorFlow & keras) , Big Data Solutions, Real-time Data Processing , MML**  
 
 ---
 
 ## 🛠 Tech Stack  
 
 **Languages**:  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black&label=★Specialized)
 ![SQL](https://img.shields.io/badge/SQL-005CDB?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-2E8B57?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1B9CFC?style=for-the-badge&logo=css3&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1B9CFC?style=for-the-badge&logo=css3&logoColor=white)
 
 **Tools & Frameworks**:  
 ![MySQL](https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white)
