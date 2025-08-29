@@ -10,7 +10,7 @@ Passionate about transforming raw data into actionable insights using AI & Data 
 ## 🛠 Tech Stack  
 
 **Languages**:  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black&label=★Specialized)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-005CDB?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-2E8B57?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
