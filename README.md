@@ -39,7 +39,7 @@ Real-time formation damage risk detection system for oil & gas wells.
 - Data cleaning and preprocessing
 - Dashboard integration with Power BI
 
-### 2. [Synthetic Mercedes-Benz Sales Dataset](https://github.com/aminbiroudian/Mercedes-Benz-Sales)
+### 2. [Synthetic Mercedes-Benz Sales Dataset]
 Generated 100k synthetic sales records for analytics and BI modeling.  
 **Tech**: Python, Pandas, NumPy  
 **Features**:
@@ -47,7 +47,7 @@ Generated 100k synthetic sales records for analytics and BI modeling.
 - Realistic probability-based data generation
 - CSV output for Power BI
 
-### 3. [Machine Learning Model Collection](https://github.com/aminbiroudian/ML-Models)
+### 3. [Machine Learning Model Collection]
 Repository of classical ML model implementations.  
 **Tech**: Python, scikit-learn, XGBoost, CatBoost  
 **Includes**:
