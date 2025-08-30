@@ -55,7 +55,15 @@ Repository of classical ML model implementations.
 - Feature engineering
 - Model evaluation metrics
 
----
+### 4. [Sales Data Analyzer](https://github.com/aminbiroudian/Sales-Data-Analyzer)
+Interactive Python tool for analyzing and visualizing sales data.  
+**Tech**: Python, Pandas, Matplotlib, Statistics  
+**Features**:
+- Tabular data exploration
+- Descriptive statistics generation
+- Calculation of mean, median, geometric & harmonic mean, standard deviation
+- Line chart plotting with average sales reference line
+- Exportable chart output (PNG)
 
 ## 📊 GitHub Stats  
 
